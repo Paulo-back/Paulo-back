@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Paulo,i'm student SAD in the 3rd college semester,<br>with more appreciate in back-end.<br>This profile is more focus at C, Python Java, and <br>front-end with Html, Css e JavaScript however less focus than back-end.<br>i'm looking for internship.<br><br>Olá, me chamo Paulo. Sou estudante de ADS no 3º semestre,<br>com maior familiaridade em backend. <br>Este perfil será focado em C, Python e Java,<br>além de front-end com HTML, CSS e JavaScript. <br>Estou à procura de estágio.
+Hi my name is Paulo,i'm student SAD in the 4ºrd college semester,<br>with more appreciate in back-end.<br>This profile is more focus at C, Python Java, and <br>front-end with Html, Css e JavaScript however less focus than back-end.<br>i'm looking for internship.<br><br>Olá, me chamo Paulo. Sou estudante de ADS no 3º semestre,<br>com maior familiaridade em backend. <br>Este perfil será focado em C, Python e Java,<br>além de front-end com HTML, CSS e JavaScript. <br>Estou à procura de estágio.
 
 
 # 💻 Tech Stack:
